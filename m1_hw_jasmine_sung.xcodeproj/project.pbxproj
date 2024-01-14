@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ACFB3976296707F100F8D467 /* HelloWorld_Completed.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld_Completed.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACFB3976296707F100F8D467 /* m1_hw_jasmine_sung.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = m1_hw_jasmine_sung.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACFB3979296707F100F8D467 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACFB397B296707F100F8D467 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		ACFB397D296707F100F8D467 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		ACFB396D296707F100F8D467 = {
 			isa = PBXGroup;
 			children = (
-				ACFB3978296707F100F8D467 /* HelloWorld_Completed */,
+				ACFB3978296707F100F8D467 /* m1_hw_jasmine_sung */,
 				ACFB3977296707F100F8D467 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		ACFB3977296707F100F8D467 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ACFB3976296707F100F8D467 /* HelloWorld_Completed.app */,
+				ACFB3976296707F100F8D467 /* m1_hw_jasmine_sung.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ACFB3978296707F100F8D467 /* HelloWorld_Completed */ = {
+		ACFB3978296707F100F8D467 /* m1_hw_jasmine_sung */ = {
 			isa = PBXGroup;
 			children = (
 				ACFB3979296707F100F8D467 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				ACFB3984296707F200F8D467 /* LaunchScreen.storyboard */,
 				ACFB3987296707F200F8D467 /* Info.plist */,
 			);
-			path = HelloWorld_Completed;
+			path = m1_hw_jasmine_sung;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ACFB3975296707F100F8D467 /* HelloWorld_Completed */ = {
+		ACFB3975296707F100F8D467 /* m1_hw_jasmine_sung */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ACFB398A296707F200F8D467 /* Build configuration list for PBXNativeTarget "HelloWorld_Completed" */;
+			buildConfigurationList = ACFB398A296707F200F8D467 /* Build configuration list for PBXNativeTarget "m1_hw_jasmine_sung" */;
 			buildPhases = (
 				ACFB3972296707F100F8D467 /* Sources */,
 				ACFB3973296707F100F8D467 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = HelloWorld_Completed;
+			name = m1_hw_jasmine_sung;
 			productName = HelloWorld_Completed;
-			productReference = ACFB3976296707F100F8D467 /* HelloWorld_Completed.app */;
+			productReference = ACFB3976296707F100F8D467 /* m1_hw_jasmine_sung.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ACFB3971296707F100F8D467 /* Build configuration list for PBXProject "HelloWorld_Completed" */;
+			buildConfigurationList = ACFB3971296707F100F8D467 /* Build configuration list for PBXProject "m1_hw_jasmine_sung" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ACFB3975296707F100F8D467 /* HelloWorld_Completed */,
+				ACFB3975296707F100F8D467 /* m1_hw_jasmine_sung */,
 			);
 		};
 /* End PBXProject section */
@@ -288,7 +288,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HelloWorld_Completed/Info.plist;
+				INFOPLIST_FILE = m1_hw_jasmine_sung/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -315,7 +315,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HelloWorld_Completed/Info.plist;
+				INFOPLIST_FILE = m1_hw_jasmine_sung/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ACFB3971296707F100F8D467 /* Build configuration list for PBXProject "HelloWorld_Completed" */ = {
+		ACFB3971296707F100F8D467 /* Build configuration list for PBXProject "m1_hw_jasmine_sung" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ACFB3988296707F200F8D467 /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ACFB398A296707F200F8D467 /* Build configuration list for PBXNativeTarget "HelloWorld_Completed" */ = {
+		ACFB398A296707F200F8D467 /* Build configuration list for PBXNativeTarget "m1_hw_jasmine_sung" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ACFB398B296707F200F8D467 /* Debug */,
